@@ -10,6 +10,7 @@ pushReplacement: Ketika kamu ingin mengganti halaman saat ini tanpa membiarkan p
 
 popAndPushNamed: Ketika kamu ingin menghapus halaman saat ini dan langsung berpindah ke halaman lain.
 
+
 *Ilustrasi Stack Navigasi:
 Misalkan kita mulai dari HomePage.
 
