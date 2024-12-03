@@ -99,7 +99,7 @@ Navigator.popAndPushNamed(context, '/homePage');
 
 ## 📖 **Referensi**
 
-- [Dokumentasi Resmi Flutter](https://flutter.dev/docs)
-- [Flutter Cookbook: Navigation](https://flutter.dev/docs/cookbook/navigation)
+- [Materi Bengkel Coding ](https://bengkelkoding.dinus.ac.id/books/books/pemrograman-flutter/page/pengujian-dan-debugging)
+  
 
 ---
